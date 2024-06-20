@@ -12,7 +12,7 @@ JobMiner is a Python-based project that scrapes job listings from LinkedIn and p
 ## Project Structure
 
 ```plaintext
-LinkedScrape/
+JobMiner/
 │
 ├── treasure_chest/
 │   └── raw_gems/
